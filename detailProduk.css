@@ -1,0 +1,13 @@
+.bt-buy {
+    background-color: rgb(59,219,41);
+    border: none;
+}
+.bt-krj {
+    border: 1px solid rgb(59,219,41);
+    color: rgb(59,219,41);
+}
+
+.d {
+    max-height: 20rem;
+    overflow-y: scroll;
+}
